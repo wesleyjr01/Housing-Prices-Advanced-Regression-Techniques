@@ -1,5 +1,5 @@
 # Housing-Prices-Advanced-Regression-Techniques
-This code covers a Machine Learning solution over the challenge Housing Prices: Advanced Regression Techniques at Kaggle's plataform, using Ensambling/Stacking models.
+This code covers a Machine Learning solution over the challenge Housing Prices: Advanced Regression Techniques at Kaggle's plataform, using Ensambling/Stacking models. **Coded in Python.**
 
 ## Kaggle plataform url:
 https://www.kaggle.com
