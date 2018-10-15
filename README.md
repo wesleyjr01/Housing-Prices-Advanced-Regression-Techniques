@@ -12,3 +12,17 @@ https://www.kaggle.com/wesleyjr01
 
 ## My Kernel over this challenge's dataset:
 https://www.kaggle.com/wesleyjr01/descomplicated-stacked-regression-kernel-top-19
+
+A Jupyter Notebook was provided to enroll the code solution.
+
+This repo cover's the following topics:
+* Machine Learning
+* Classification
+* Data Analisys
+* Lasso Model
+* Ridge Model
+* XBoost Model
+* ElasticNet Model
+* Kernel Ridge Model
+* Light Gradient Boost Model
+* Stacking Models
